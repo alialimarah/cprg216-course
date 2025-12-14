@@ -1,0 +1,19 @@
+PEER REVIEW FORM
+Component: Student Class (student.py)
+Author: Ali Alimarah, Humza Khan (Worked Together)
+Reviewer: Humza Khan
+Date: Dec 13, 2025
+
+TESTING:
+- Created student with valid values
+- Tested invalid year values
+- Checked CSV output format
+
+RESULT:
+All methods function correctly.
+
+ISSUES:
+None.
+
+STATUS:
+APPROVED

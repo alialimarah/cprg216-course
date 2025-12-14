@@ -1,0 +1,16 @@
+PEER REVIEW FORM
+Component: StudentManager (student_manager.py)
+Author: Ali Alimarah, Humza Khan (Worked Together)
+Reviewer: Humza Khan
+Date: Dec 13, 2025
+
+TESTING:
+- Load/save CSV
+- Add/edit/remove student
+- Search by ID and name
+
+ISSUES:
+Minor input messaging improvement suggested.
+
+STATUS:
+APPROVED WITH MINOR NOTES

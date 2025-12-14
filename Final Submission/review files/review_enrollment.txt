@@ -1,0 +1,17 @@
+PEER REVIEW FORM
+Component: EnrollmentManager
+Author: Ali Alimarah, Humza Khan (Worked Together)
+Reviewer: Ali Alimarah
+Date: Dec 13, 2025
+
+TESTING:
+- Register/drop enrollment
+- Prevent duplicates
+- Block full course
+- Assign grade
+
+ISSUES:
+None.
+
+STATUS:
+APPROVED

@@ -1,0 +1,201 @@
+student_id,first_name,last_name,email,program,year
+2023653487,Nathan,Clark,nathan.clark@mystudent.ca,Cybersecurity,2
+2023075469,Dylan,Davis,dylan.davis@mystudent.ca,Software Development,2
+2023836574,Addison,Gonzalez,addison.gonzalez@mystudent.ca,Computer Systems Technology,3
+2023023626,Charles,Moore,charles.moore@mystudent.ca,Software Development,3
+2023566816,Mia,Allen,mia.allen@mystudent.ca,Network Systems Administration,4
+2023941032,Henry,Martin,henry.martin@mystudent.ca,Computer Systems Technology,3
+2023845175,Henry,Nguyen,henry.nguyen@mystudent.ca,Software Development,3
+2023717017,Isabella,Baker,isabella.baker@mystudent.ca,Computer Programming,3
+2023116243,Mia,Carter,mia.carter@mystudent.ca,Information Technology,2
+2023344902,Allison,Clark,allison.clark@mystudent.ca,Software Development,4
+2023788700,Lincoln,Patel,lincoln.patel@mystudent.ca,Cybersecurity,4
+2023165873,Riley,Bennett,riley.bennett@mystudent.ca,Information Technology,3
+2023255729,Mason,White,mason.white@mystudent.ca,Information Technology,4
+2023387882,Sebastian,Reyes,sebastian.reyes@mystudent.ca,Software Development,2
+2023075082,Lillian,Kelly,lillian.kelly@mystudent.ca,Information Technology,1
+2023116311,Charlotte,Hall,charlotte.hall@mystudent.ca,Network Systems Administration,1
+2023728389,Samantha,Sanchez,samantha.sanchez@mystudent.ca,Information Technology,3
+2023245768,Hudson,Edwards,hudson.edwards@mystudent.ca,Computer Programming,3
+2023045344,Leah,Miller,leah.miller@mystudent.ca,Information Technology,2
+2023761114,Grace,Flores,grace.flores@mystudent.ca,Network Systems Administration,1
+2023167653,Ella,Stewart,ella.stewart@mystudent.ca,Software Development,1
+2023629510,Isaiah,Smith,isaiah.smith@mystudent.ca,Computer Systems Technology,4
+2023775301,Isaac,Martinez,isaac.martinez@mystudent.ca,Network Systems Administration,1
+2023567366,Owen,Nelson,owen.nelson@mystudent.ca,Network Systems Administration,4
+2023801588,Sofia,Hernandez,sofia.hernandez@mystudent.ca,Cybersecurity,3
+2023834822,Anthony,Watson,anthony.watson@mystudent.ca,Cybersecurity,3
+2023267241,Brooklyn,Hill,brooklyn.hill@mystudent.ca,Cybersecurity,2
+2023433114,Christian,Campbell,christian.campbell@mystudent.ca,Information Technology,4
+2023626025,Mia,Ward,mia.ward@mystudent.ca,Network Systems Administration,4
+2023392118,Mia,Parker,mia.parker@mystudent.ca,Network Systems Administration,4
+2023592560,Audrey,Ross,audrey.ross@mystudent.ca,Computer Programming,1
+2023850926,Allison,Mendoza,allison.mendoza@mystudent.ca,Cybersecurity,3
+2023248170,Savannah,Bennett,savannah.bennett@mystudent.ca,Information Technology,3
+2023953322,Hannah,Brown,hannah.brown@mystudent.ca,Cybersecurity,3
+2023842918,Hannah,Robinson,hannah.robinson@mystudent.ca,Cybersecurity,2
+2023190977,Jayden,Foster,jayden.foster@mystudent.ca,Information Technology,2
+2023761501,Jaxon,Evans,jaxon.evans@mystudent.ca,Computer Programming,2
+2023187641,Caleb,Kelly,caleb.kelly@mystudent.ca,Cybersecurity,4
+2023996080,Connor,Evans,connor.evans@mystudent.ca,Computer Programming,4
+2023397077,Connor,Bennett,connor.bennett@mystudent.ca,Cybersecurity,3
+2023332235,Allison,Chavez,allison.chavez@mystudent.ca,Software Development,1
+2023136287,Wyatt,Scott,wyatt.scott@mystudent.ca,Computer Programming,2
+2023065619,Anthony,Murphy,anthony.murphy@mystudent.ca,Information Technology,4
+2023126386,Zoe,Thomas,zoe.thomas@mystudent.ca,Computer Programming,2
+2023210352,Brooklyn,Phillips,brooklyn.phillips@mystudent.ca,Cybersecurity,4
+2023295442,David,Cox,david.cox@mystudent.ca,Computer Systems Technology,4
+2023866542,Aubrey,Johnson,aubrey.johnson@mystudent.ca,Software Development,1
+2023563673,Elizabeth,Ruiz,elizabeth.ruiz@mystudent.ca,Computer Programming,1
+2023418205,Isaac,Price,isaac.price@mystudent.ca,Network Systems Administration,3
+2023269706,Wyatt,Adams,wyatt.adams@mystudent.ca,Software Development,2
+2023972632,Nathan,Mendoza,nathan.mendoza@mystudent.ca,Information Technology,3
+2023280625,Samantha,Young,samantha.young@mystudent.ca,Cybersecurity,3
+2023625628,Connor,Murphy,connor.murphy@mystudent.ca,Computer Programming,1
+2023600727,Christian,Alvarez,christian.alvarez@mystudent.ca,Computer Programming,3
+2023027020,Owen,Brown,owen.brown@mystudent.ca,Computer Programming,1
+2023707456,Sofia,Garcia,sofia.garcia@mystudent.ca,Information Technology,4
+2023876315,Hunter,Moore,hunter.moore@mystudent.ca,Information Technology,4
+2023277336,Zoey,Flores,zoey.flores@mystudent.ca,Computer Systems Technology,4
+2023380638,Liam,Garcia,liam.garcia@mystudent.ca,Software Development,2
+2023927479,Christian,Nelson,christian.nelson@mystudent.ca,Cybersecurity,4
+2023420214,Thomas,White,thomas.white@mystudent.ca,Cybersecurity,2
+2023604609,Ryan,Evans,ryan.evans@mystudent.ca,Software Development,1
+2023802421,Eleanor,Gonzalez,eleanor.gonzalez@mystudent.ca,Cybersecurity,4
+2023931032,Avery,Rodriguez,avery.rodriguez@mystudent.ca,Network Systems Administration,2
+2023724806,Caleb,Thompson,caleb.thompson@mystudent.ca,Information Technology,4
+2023123406,Paisley,Reed,paisley.reed@mystudent.ca,Network Systems Administration,1
+2023988460,Christopher,Smith,christopher.smith@mystudent.ca,Information Technology,1
+2023233710,Chloe,Rogers,chloe.rogers@mystudent.ca,Information Technology,2
+2023852083,William,Brown,william.brown@mystudent.ca,Network Systems Administration,4
+2023297704,Jaxon,Alvarez,jaxon.alvarez@mystudent.ca,Network Systems Administration,1
+2023732974,Aiden,Mendoza,aiden.mendoza@mystudent.ca,Computer Programming,4
+2023949385,Jack,Rodriguez,jack.rodriguez@mystudent.ca,Computer Programming,2
+2023074189,Mason,Moore,mason.moore@mystudent.ca,Computer Programming,4
+2023767553,Leah,Hill,leah.hill@mystudent.ca,Computer Programming,1
+2023036285,Lily,Bennett,lily.bennett@mystudent.ca,Cybersecurity,2
+2023584618,Nora,Flores,nora.flores@mystudent.ca,Information Technology,1
+2023178365,Henry,Rodriguez,henry.rodriguez@mystudent.ca,Network Systems Administration,3
+2023448683,Mason,Gray,mason.gray@mystudent.ca,Cybersecurity,2
+2023515776,Elizabeth,Jimenez,elizabeth.jimenez@mystudent.ca,Cybersecurity,4
+2023184855,Carter,Adams,carter.adams@mystudent.ca,Computer Systems Technology,4
+2023806228,Emily,Clark,emily.clark@mystudent.ca,Computer Systems Technology,4
+2023218044,Sophia,Sanders,sophia.sanders@mystudent.ca,Network Systems Administration,4
+2023581234,Olivia,Clark,olivia.clark@mystudent.ca,Computer Systems Technology,3
+2023883849,James,Phillips,james.phillips@mystudent.ca,Network Systems Administration,2
+2023127455,Zoe,Ruiz,zoe.ruiz@mystudent.ca,Network Systems Administration,3
+2023490727,Grayson,Torres,grayson.torres@mystudent.ca,Information Technology,4
+2023588700,Grace,Brooks,grace.brooks@mystudent.ca,Computer Programming,2
+2023719026,Leo,Sanders,leo.sanders@mystudent.ca,Computer Programming,4
+2023539176,Julian,Long,julian.long@mystudent.ca,Software Development,2
+2023761352,Elizabeth,Murphy,elizabeth.murphy@mystudent.ca,Information Technology,1
+2023990973,Camila,Hernandez,camila.hernandez@mystudent.ca,Computer Systems Technology,2
+2023944870,William,Young,william.young@mystudent.ca,Cybersecurity,3
+2023753726,Owen,Young,owen.young@mystudent.ca,Computer Systems Technology,1
+2023826550,Josiah,Hall,josiah.hall@mystudent.ca,Cybersecurity,4
+2023382937,Nathan,Allen,nathan.allen@mystudent.ca,Cybersecurity,3
+2023402735,Ava,Lewis,ava.lewis@mystudent.ca,Network Systems Administration,1
+2023485158,Josiah,Parker,josiah.parker@mystudent.ca,Computer Programming,1
+2023787146,Carter,Bailey,carter.bailey@mystudent.ca,Computer Programming,3
+2023872039,Samantha,Davis,samantha.davis@mystudent.ca,Information Technology,3
+2023585448,Aubrey,Rogers,aubrey.rogers@mystudent.ca,Software Development,4
+2023460373,Allison,Lopez,allison.lopez@mystudent.ca,Software Development,3
+2023246245,Mia,Wilson,mia.wilson@mystudent.ca,Cybersecurity,2
+2023669989,Addison,Richardson,addison.richardson@mystudent.ca,Information Technology,1
+2023932698,Liam,Garcia,liam.garcia@mystudent.ca,Cybersecurity,1
+2023079012,Josiah,Jones,josiah.jones@mystudent.ca,Information Technology,4
+2023801170,Lincoln,Campbell,lincoln.campbell@mystudent.ca,Computer Programming,2
+2023804583,Aria,Gray,aria.gray@mystudent.ca,Software Development,2
+2023643147,Ethan,Nguyen,ethan.nguyen@mystudent.ca,Computer Systems Technology,4
+2023428583,Penelope,Robinson,penelope.robinson@mystudent.ca,Network Systems Administration,1
+2023825097,Isaac,Peterson,isaac.peterson@mystudent.ca,Information Technology,3
+2023447757,Isabella,Alvarez,isabella.alvarez@mystudent.ca,Software Development,4
+2023587927,Mila,Reed,mila.reed@mystudent.ca,Network Systems Administration,3
+2023007636,Zoe,Moore,zoe.moore@mystudent.ca,Computer Programming,4
+2023563288,Asher,Hall,asher.hall@mystudent.ca,Network Systems Administration,3
+2023868794,Skylar,Brooks,skylar.brooks@mystudent.ca,Software Development,2
+2023542696,Addison,Torres,addison.torres@mystudent.ca,Information Technology,2
+2023641659,Lillian,Sanders,lillian.sanders@mystudent.ca,Cybersecurity,1
+2023944131,Amelia,Ross,amelia.ross@mystudent.ca,Computer Programming,4
+2023609199,Mateo,Watson,mateo.watson@mystudent.ca,Computer Programming,4
+2023900894,Lucas,White,lucas.white@mystudent.ca,Information Technology,3
+2023745032,Violet,Williams,violet.williams@mystudent.ca,Cybersecurity,4
+2023090828,Leah,Parker,leah.parker@mystudent.ca,Software Development,3
+2023813232,Layla,Hughes,layla.hughes@mystudent.ca,Computer Programming,2
+2023646098,Leah,Castillo,leah.castillo@mystudent.ca,Computer Programming,1
+2023287989,Jayden,Wright,jayden.wright@mystudent.ca,Software Development,4
+2023282651,Elizabeth,Robinson,elizabeth.robinson@mystudent.ca,Information Technology,4
+2023290732,Abigail,Hill,abigail.hill@mystudent.ca,Software Development,2
+2023054783,Anna,Anderson,anna.anderson@mystudent.ca,Computer Programming,1
+2023384781,Noah,Morgan,noah.morgan@mystudent.ca,Cybersecurity,1
+2023066234,Savannah,Martinez,savannah.martinez@mystudent.ca,Cybersecurity,3
+2023112325,Leah,Rodriguez,leah.rodriguez@mystudent.ca,Computer Programming,4
+2023026704,Claire,Diaz,claire.diaz@mystudent.ca,Computer Programming,3
+2023108219,Jaxon,James,jaxon.james@mystudent.ca,Computer Systems Technology,3
+2023475259,Emily,Roberts,emily.roberts@mystudent.ca,Information Technology,4
+2023918459,Skylar,Lee,skylar.lee@mystudent.ca,Information Technology,1
+2023346907,Mason,Cooper,mason.cooper@mystudent.ca,Computer Systems Technology,2
+2023167463,Nathan,Young,nathan.young@mystudent.ca,Computer Programming,1
+2023290899,Jayden,Miller,jayden.miller@mystudent.ca,Cybersecurity,2
+2023735216,Christian,Green,christian.green@mystudent.ca,Software Development,2
+2023777493,Skylar,Rogers,skylar.rogers@mystudent.ca,Information Technology,1
+2023936683,Emily,Miller,emily.miller@mystudent.ca,Network Systems Administration,4
+2023950765,Grace,Jones,grace.jones@mystudent.ca,Computer Systems Technology,1
+2023435025,Camila,Garcia,camila.garcia@mystudent.ca,Computer Systems Technology,1
+2023909465,Scarlett,Ortiz,scarlett.ortiz@mystudent.ca,Computer Systems Technology,1
+2023431793,Isabella,Reyes,isabella.reyes@mystudent.ca,Information Technology,3
+2023952498,Victoria,Perez,victoria.perez@mystudent.ca,Computer Programming,1
+2023361491,Zoe,Mendoza,zoe.mendoza@mystudent.ca,Computer Programming,1
+2023172433,Mateo,Lopez,mateo.lopez@mystudent.ca,Information Technology,3
+2023153469,Zoe,Stewart,zoe.stewart@mystudent.ca,Information Technology,1
+2023136068,Amelia,Lewis,amelia.lewis@mystudent.ca,Cybersecurity,2
+2023416327,Ella,Evans,ella.evans@mystudent.ca,Network Systems Administration,4
+2023680736,Addison,Gonzalez,addison.gonzalez@mystudent.ca,Software Development,3
+2023741343,Emma,Howard,emma.howard@mystudent.ca,Computer Programming,3
+2023946393,Ella,Lewis,ella.lewis@mystudent.ca,Computer Programming,3
+2023317089,Isaiah,Myers,isaiah.myers@mystudent.ca,Computer Systems Technology,2
+2023564895,Avery,Nguyen,avery.nguyen@mystudent.ca,Computer Systems Technology,2
+2023080020,Henry,Murphy,henry.murphy@mystudent.ca,Cybersecurity,4
+2023383964,James,Cox,james.cox@mystudent.ca,Network Systems Administration,3
+2023837121,Emily,Rogers,emily.rogers@mystudent.ca,Information Technology,1
+2023883974,Sophia,Morales,sophia.morales@mystudent.ca,Software Development,4
+2023119824,Mila,Moore,mila.moore@mystudent.ca,Software Development,4
+2023426281,Ethan,Miller,ethan.miller@mystudent.ca,Computer Systems Technology,4
+2023666130,William,Ward,william.ward@mystudent.ca,Information Technology,3
+2023773670,Jack,Myers,jack.myers@mystudent.ca,Cybersecurity,3
+2023591758,Addison,Hernandez,addison.hernandez@mystudent.ca,Software Development,1
+2023549087,Lillian,Perez,lillian.perez@mystudent.ca,Information Technology,1
+2023952886,Ryan,Gomez,ryan.gomez@mystudent.ca,Information Technology,3
+2023851355,Sophia,Anderson,sophia.anderson@mystudent.ca,Information Technology,4
+2023415942,Paisley,Richardson,paisley.richardson@mystudent.ca,Information Technology,3
+2023340925,Mila,Lee,mila.lee@mystudent.ca,Network Systems Administration,2
+2023011310,Alexa,Hernandez,alexa.hernandez@mystudent.ca,Computer Programming,4
+2023441051,William,Alvarez,william.alvarez@mystudent.ca,Cybersecurity,3
+2023055562,Theodore,Gray,theodore.gray@mystudent.ca,Computer Programming,3
+2023951572,Jack,Bennett,jack.bennett@mystudent.ca,Network Systems Administration,4
+2023833486,Zoe,Garcia,zoe.garcia@mystudent.ca,Cybersecurity,1
+2023695416,Aria,Hernandez,aria.hernandez@mystudent.ca,Information Technology,1
+2023740766,Isaiah,Brooks,isaiah.brooks@mystudent.ca,Computer Systems Technology,4
+2023479371,James,Chavez,james.chavez@mystudent.ca,Computer Systems Technology,2
+2023233686,Layla,Mendoza,layla.mendoza@mystudent.ca,Information Technology,3
+2023232463,Zoey,Thomas,zoey.thomas@mystudent.ca,Computer Systems Technology,3
+2023288078,Ella,Lopez,ella.lopez@mystudent.ca,Cybersecurity,3
+2023705962,Nathan,Morales,nathan.morales@mystudent.ca,Network Systems Administration,1
+2023461564,Sofia,Johnson,sofia.johnson@mystudent.ca,Information Technology,4
+2023668706,Matthew,Peterson,matthew.peterson@mystudent.ca,Software Development,4
+2023789492,Mason,Taylor,mason.taylor@mystudent.ca,Information Technology,2
+2023614912,William,Thompson,william.thompson@mystudent.ca,Cybersecurity,1
+2023657117,Owen,Diaz,owen.diaz@mystudent.ca,Software Development,4
+2023728047,Jayden,Price,jayden.price@mystudent.ca,Computer Programming,2
+2023380996,Owen,Thompson,owen.thompson@mystudent.ca,Cybersecurity,1
+2023812644,Chloe,Perez,chloe.perez@mystudent.ca,Information Technology,2
+2023308277,Abigail,Myers,abigail.myers@mystudent.ca,Computer Programming,3
+2023087689,Scarlett,Morales,scarlett.morales@mystudent.ca,Information Technology,4
+2023819660,Owen,Moore,owen.moore@mystudent.ca,Software Development,2
+2023013873,Matthew,Clark,matthew.clark@mystudent.ca,Computer Systems Technology,4
+2023772730,Owen,Evans,owen.evans@mystudent.ca,Software Development,2
+2023637136,Jack,Brooks,jack.brooks@mystudent.ca,Computer Systems Technology,1
+2023814296,Lucas,Sanders,lucas.sanders@mystudent.ca,Computer Systems Technology,2
+2023194019,Asher,Myers,asher.myers@mystudent.ca,Computer Systems Technology,4
+2023353404,Samantha,Bailey,samantha.bailey@mystudent.ca,Cybersecurity,1
+2023367685,Levi,Jackson,levi.jackson@mystudent.ca,Computer Programming,4

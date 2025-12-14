@@ -1,0 +1,41 @@
+course_code,course_name,instructor,credits,capacity
+CPRG216,Python Programming,Dr. Anderson,3,35
+CPRG251,Object Oriented Programming,Dr. Martinez,4,30
+CPRG256,Web Development I,Prof. Johnson,3,40
+CPRG303,Advanced Web Development,Prof. Wilson,4,25
+DMIT1508,Database Fundamentals,Dr. Lee,4,35
+DMIT1234,Introduction to Programming,Prof. Chen,3,45
+DMIT2025,Server-Side Scripting,Dr. Brown,3,30
+DMIT2018,Intermediate Application Development,Prof. Garcia,4,28
+SYST10049,Web Development Fundamentals,Dr. Taylor,3,40
+COMP1000,Introduction to Computing,Prof. Moore,3,50
+COMP1630,Networking Fundamentals,Dr. White,4,32
+COMP2130,Systems Analysis and Design,Prof. Harris,4,28
+COMP2230,Software Engineering,Dr. Thompson,4,25
+COMP2633,Cybersecurity Fundamentals,Prof. Jackson,3,30
+MATH1505,Technical Mathematics,Dr. Martin,3,45
+MATH1510,Applied Mathematics,Prof. Lee,3,40
+COMM1556,Technical Communication,Dr. Rodriguez,3,35
+MGMT1234,Project Management,Prof. Lewis,3,38
+DATA1200,Data Structures,Dr. Walker,4,30
+DATA2400,Algorithm Design,Prof. Hall,4,28
+WEBD1000,Web Design Principles,Dr. Allen,3,42
+WEBD2010,Advanced JavaScript,Prof. Young,4,30
+MOBD1001,Mobile Development I,Dr. King,4,25
+MOBD2002,Mobile Development II,Prof. Scott,4,22
+DBAS1001,Database Design,Dr. Green,4,35
+DBAS2002,Advanced Databases,Prof. Adams,4,28
+SYST2001,Operating Systems,Dr. Nelson,4,30
+SYST2002,System Administration,Prof. Baker,4,26
+NTWK1001,Network Infrastructure,Dr. Hall,4,32
+NTWK2002,Advanced Networking,Prof. Rivera,4,28
+SECU1001,Information Security,Dr. Campbell,3,35
+SECU2002,Ethical Hacking,Prof. Mitchell,4,25
+PROG1001,Programming Logic,Dr. Carter,3,50
+PROG2002,Advanced Programming,Prof. Roberts,4,30
+CLOU1001,Cloud Computing Basics,Dr. Turner,3,32
+CLOU2002,Cloud Architecture,Prof. Phillips,4,25
+DEVP1001,DevOps Fundamentals,Dr. Evans,3,28
+DEVP2002,CI/CD Pipelines,Prof. Edwards,4,24
+GAME1001,Game Development I,Dr. Collins,4,30
+GAME2002,Game Development II,Prof. Stewart,4,26
